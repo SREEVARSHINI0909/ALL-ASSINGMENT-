@@ -1,0 +1,129 @@
+.start{
+
+    text-align: end;
+    colour:grey;
+    background-image:url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/chatbg.png");
+    height:100%;
+    width:55vw;
+
+
+}
+
+.align{
+
+
+    text-align: center;
+    color:white;
+    background-color:#323f4b;
+    width:100%;
+}
+.b1{
+   
+    background-color: #47a3f3;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-weight: 10px;
+    color:white;
+    width:60%;
+    text-align: end;
+    height: 40px;
+    border-top-left-radius:10px ;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-width: 0;
+  
+}
+
+.b2{ 
+  
+    background-color: #52606d ;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-weight: 25px;
+    color:white;
+    width:60%;
+    text-align:start;
+    height:40px;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    border-width: 0;
+    
+
+}
+
+.b3{
+    background-color: #47a3f3;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-weight: 10px;
+    color:white;
+    width:60%;
+    text-align: end;
+    height: 40px;
+    border-top-left-radius:10px ;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-width: 0;
+
+}
+
+.b4{
+    background-color: #52606d ;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-weight: 10px;
+    color:white;
+    width:60%;
+    text-align:start;
+    height:40px;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    border-width: 0;
+}
+
+.b5{
+
+    background-color: #47a3f3;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-weight: 10px;
+    color:white;
+    width:60%;
+    text-align: end;
+    height: 40px;
+    border-top-left-radius:10px ;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-width: 0;
+
+}
+.b6{
+    background-color: #52606d ;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-weight: 10px;
+    color:white;
+    width:60%;
+    text-align:start;
+    height:40px;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    border-width: 0;
+}
+.b7{
+    background-color: #47a3f3;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-weight: 10px;
+    color:white;
+    width:60%;
+    text-align: end;
+    height: 40px;
+    border-top-left-radius:10px ;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-width: 0;
+}
